@@ -7,5 +7,4 @@ I'm a passionate software developer from Indonesia 🇮🇩
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/namamu)
 - ⚡ Fun fact: I love cats 😺
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?LarkStarz=LarkStarz
-&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?LarkStarz=LarkStarz&show_icons=true)
